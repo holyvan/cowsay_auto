@@ -1,3 +1,2 @@
-# test
-test
-This is my first
+# cowsay
+cowsay auto build
